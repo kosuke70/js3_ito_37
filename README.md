@@ -4,3 +4,5 @@
 
 [Firebase Databaseで要素の数をカウントする方法](https://www.sukerou.com/2019/07/firebase-database.html)
 
+[Firebase Realtime DatabaseとFirestoreを使い分けていこうなという話](https://techblog.kayac.com/rtdb-vs-firestore)
+
