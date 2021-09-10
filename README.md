@@ -11,3 +11,6 @@
 
 [Firebase Realtime DatabaseとFirestoreを使い分けていこうなという話](https://techblog.kayac.com/rtdb-vs-firestore)
 
+[Text-to-Speech: 自然な音声合成 | Google Cloud](https://cloud.google.com/text-to-speech)
+
+[Google Cloud Text-to-Speech の使い方 日本語テキストを読み上げさせてみよう](https://blog.apar.jp/web/9893/)
